@@ -8,6 +8,9 @@ __pycache__/
 # VS Code
 .vscode/
 
+# Generated Files
+processed_data/
+
 # OS Files
 .DS_Store
 Thumbs.db
