@@ -1,0 +1,9 @@
+chromadb
+sentence-transformers
+langchain
+langchain-openai
+python-dotenv
+pypdf
+transformers
+torch
+numpy
